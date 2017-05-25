@@ -1,0 +1,2 @@
+model_checkpoint_path: "rntn_flat_tree_model-22000"
+all_model_checkpoint_paths: "rntn_flat_tree_model-22000"
